@@ -1,0 +1,34 @@
+[
+    {
+        "ExchangeRate": "0.90255",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "ExchangeRate": "0.80932",
+        "CurrencyCode": "GBP"
+    },
+    {
+        "ExchangeRate": "1",
+        "CurrencyCode": "USD"
+    },
+    {
+        "ExchangeRate": "70.92500",
+        "CurrencyCode": "INR"
+    },
+    {
+        "ExchangeRate": "1.32240",
+        "CurrencyCode": "CAD"
+    },
+    {
+        "ExchangeRate": "1.45529",
+        "CurrencyCode": "AUD"
+    },
+    {
+        "ExchangeRate": "0.98860",
+        "CurrencyCode": "CHF"
+    },
+    {
+        "ExchangeRate": "19.42410",
+        "CurrencyCode": "MXN"
+    }
+]
